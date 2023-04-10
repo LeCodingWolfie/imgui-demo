@@ -1,0 +1,11 @@
+# Premake clutter
+**/Makefile
+**/bin
+**/obj
+
+# Premake
+vendor/*.so
+vendor/premake5
+
+# Dear ImGui artifacts
+imgui.ini
